@@ -21,7 +21,7 @@ public class Client extends JFrame{
         	 System.exit(0);
         }
         else {
-	        setTitle("欢迎使用网安222罗伟峰32206400008的聊天室应用");
+	        setTitle("聊天室应用");
 	        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	        setSize(400, 300);	
 	        setLocationRelativeTo(null);
